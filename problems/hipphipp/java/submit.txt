@@ -1,0 +1,1 @@
+python submit.py -p "hipphipp" -f .\problems\hipphipp\java\Main.java
