@@ -1,1 +1,1 @@
-python submit.py -p "velkomin" -f .\problems\velkomin\java\Main.java
+python submit.py -p "velkomin" -f ".\problems\velkomin\java\Main.java"
