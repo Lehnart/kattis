@@ -1,0 +1,1 @@
+python submit.py -p "storafmaeli" -f ".\problems\storafmaeli\java\Main.java"

@@ -1,0 +1,1 @@
+python submit.py -p "ovissa" -f ".\problems\ovissa\java\Main.java"
