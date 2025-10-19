@@ -1,0 +1,1 @@
+python submit.py -p "millifaersla" -f ".\problems\millifaersla\java\Main.java"

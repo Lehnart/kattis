@@ -1,0 +1,1 @@
+python submit.py -p "telja" -f ".\problems\telja\java\Main.java"
