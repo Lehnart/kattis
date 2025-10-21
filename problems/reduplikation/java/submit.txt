@@ -1,0 +1,1 @@
+python submit.py -p "reduplikation" -f ".\problems\reduplikation\java\Main.java"

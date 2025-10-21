@@ -1,0 +1,1 @@
+python submit.py -p "flatbokuveisla" -f ".\problems\flatbokuveisla\java\Main.java"
