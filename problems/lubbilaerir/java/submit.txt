@@ -1,0 +1,1 @@
+python submit.py -p "lubbilaerir" -f ".\problems\lubbilaerir\java\Main.java"

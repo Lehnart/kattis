@@ -1,0 +1,1 @@
+python submit.py -p "hello" -f ".\problems\hello\java\Main.java"
