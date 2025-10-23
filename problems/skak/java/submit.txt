@@ -1,0 +1,1 @@
+python submit.py -p "skak" -f ".\problems\skak\java\Main.java"

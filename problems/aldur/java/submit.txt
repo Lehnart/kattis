@@ -1,0 +1,1 @@
+python submit.py -p "aldur" -f ".\problems\aldur\java\Main.java"

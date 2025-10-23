@@ -1,0 +1,1 @@
+python submit.py -p "bergmal" -f ".\problems\bergmal\java\Main.java"

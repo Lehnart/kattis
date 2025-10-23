@@ -31,7 +31,12 @@ for problem in problems :
         with open(output_file, "r") as o, open(result_file, "r") as r :
             output_content = o.read()
             result_content = r.read()
-            assert output_content == result_content
+            try :
+                assert output_content == result_content
+            except AssertionError :
+                print("expected ", output_content)
+                print("result ", result_content)
+                exit()
 
         os.remove("result.txt")
 
