@@ -1,0 +1,1 @@
+python submit.py -p "bestagjofin" -f ".\problems\bestagjofin\java\Main.java"

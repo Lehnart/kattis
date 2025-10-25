@@ -1,0 +1,1 @@
+python submit.py -p "oddecho" -f ".\problems\oddecho\java\Main.java"

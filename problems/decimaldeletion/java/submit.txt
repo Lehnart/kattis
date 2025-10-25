@@ -1,0 +1,1 @@
+python submit.py -p "decimaldeletion" -f ".\problems\decimaldeletion\java\Main.java"

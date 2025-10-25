@@ -1,0 +1,1 @@
+python submit.py -p "bladra2" -f ".\problems\bladra2\java\Main.java"
