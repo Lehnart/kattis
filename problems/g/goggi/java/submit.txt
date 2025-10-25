@@ -1,0 +1,1 @@
+python submit.py -p "goggi" -f ".\problems\goggi\java\Main.java"

@@ -1,0 +1,1 @@
+python submit.py -p "dfyrirdreki" -f ".\problems\dfyrirdreki\java\Main.java"
