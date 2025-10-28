@@ -1,0 +1,1 @@
+python submit.py -p "hackaholics" -f ".\problems\h\hackaholics\java\Main.java"

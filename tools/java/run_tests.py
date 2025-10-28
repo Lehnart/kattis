@@ -1,9 +1,14 @@
 import subprocess
 import os 
 import pathlib
+import sys
+
+args = sys.argv[1:]
+letter = args[0] if len(args) > 0 else None 
 
 os.chdir("problems")
-letters = os.listdir()
+letters = os.listdir() if letter is None else [letter]
+
 for letter in letters :
     os.chdir(letter)
     problems = os.listdir()
