@@ -1,0 +1,1 @@
+python submit.py -p "timeloop" -f ".\problems\t\timeloop\java\Main.java"

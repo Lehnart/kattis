@@ -1,0 +1,1 @@
+python submit.py -p "quadrant" -f ".\problems\q\quadrant\java\Main.java"
