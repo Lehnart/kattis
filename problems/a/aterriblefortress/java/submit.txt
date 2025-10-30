@@ -1,0 +1,1 @@
+python submit.py -p "aterriblefortress" -f ".\problems\a\aterriblefortress\java\Main.java"

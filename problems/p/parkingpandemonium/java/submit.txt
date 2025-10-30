@@ -1,0 +1,1 @@
+python submit.py -p "parkingpandemonium" -f ".\problems\p\parkingpandemonium\java\Main.java"

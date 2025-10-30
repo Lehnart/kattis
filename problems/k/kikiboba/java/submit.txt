@@ -1,0 +1,1 @@
+python submit.py -p "kikiboba" -f ".\problems\k\kikiboba\java\Main.java"

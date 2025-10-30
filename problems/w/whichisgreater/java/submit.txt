@@ -1,0 +1,1 @@
+python submit.py -p "whichisgreater" -f ".\problems\w\whichisgreater\java\Main.java"
