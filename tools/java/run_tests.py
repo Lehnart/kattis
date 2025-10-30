@@ -40,6 +40,7 @@ for letter in letters :
                 try :
                     assert output_content == result_content
                 except AssertionError :
+                    print("input file", input_file)
                     print("expected ", output_content)
                     print("result ", result_content)
                     exit()
