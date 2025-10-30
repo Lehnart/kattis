@@ -1,0 +1,1 @@
+python submit.py -p "echoechoecho" -f ".\problems\e\echoechoecho\java\Main.java"

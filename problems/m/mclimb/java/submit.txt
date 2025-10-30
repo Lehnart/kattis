@@ -1,0 +1,1 @@
+python submit.py -p "mclimb" -f ".\problems\m\mclimb\java\Main.java"

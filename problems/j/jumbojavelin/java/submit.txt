@@ -1,0 +1,1 @@
+python submit.py -p "jumbojavelin" -f ".\problems\j\jumbojavelin\java\Main.java"
