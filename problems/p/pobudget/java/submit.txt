@@ -1,0 +1,1 @@
+python submit.py -p "pobudget" -f ".\problems\p\pobudget\java\Main.java"

@@ -1,0 +1,1 @@
+python submit.py -p "umferd" -f ".\problems\u\umferd\java\Main.java"

@@ -1,0 +1,1 @@
+python submit.py -p "heysata" -f ".\problems\h\heysata\java\Main.java"

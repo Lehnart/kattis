@@ -1,0 +1,1 @@
+python submit.py -p "spritt" -f ".\problems\s\spritt\java\Main.java"
