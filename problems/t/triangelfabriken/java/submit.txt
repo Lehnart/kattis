@@ -1,0 +1,1 @@
+python submit.py -p "triangelfabriken" -f ".\problems\t\triangelfabriken\java\Main.java"

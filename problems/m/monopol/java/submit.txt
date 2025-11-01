@@ -1,0 +1,1 @@
+python submit.py -p "monopol" -f ".\problems\m\monopol\java\Main.java"

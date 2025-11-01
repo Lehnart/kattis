@@ -1,0 +1,1 @@
+python submit.py -p "sibice" -f ".\problems\s\sibice\java\Main.java"
