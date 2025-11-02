@@ -1,0 +1,1 @@
+python submit.py -p "autori" -f ".\problems\a\autori\java\Main.java"

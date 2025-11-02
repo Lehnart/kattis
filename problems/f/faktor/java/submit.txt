@@ -1,0 +1,1 @@
+python submit.py -p "faktor" -f ".\problems\f\faktor\java\Main.java"
