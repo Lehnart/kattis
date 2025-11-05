@@ -1,0 +1,1 @@
+python submit.py -p "catinabox" -f ".\problems\c\catinabox\java\Main.java"

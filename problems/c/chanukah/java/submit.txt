@@ -1,0 +1,1 @@
+python submit.py -p "chanukah" -f ".\problems\c\chanukah\java\Main.java"

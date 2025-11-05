@@ -1,0 +1,1 @@
+python submit.py -p "ratingproblems" -f ".\problems\r\ratingproblems\java\Main.java"
