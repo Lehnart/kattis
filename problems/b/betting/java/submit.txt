@@ -1,0 +1,1 @@
+python submit.py -p "betting" -f ".\problems\b\betting\java\Main.java"
