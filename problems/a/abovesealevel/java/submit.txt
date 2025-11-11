@@ -1,0 +1,1 @@
+python submit.py -p "abovesealevel" -f ".\problems\a\abovesealevel\java\Main.java"
