@@ -1,0 +1,1 @@
+python submit.py -p "grafaholur" -f ".\problems\g\grafaholur\java\Main.java"

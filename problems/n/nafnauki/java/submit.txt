@@ -1,0 +1,1 @@
+python submit.py -p "nafnauki" -f ".\problems\n\nafnauki\java\Main.java"

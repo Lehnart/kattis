@@ -1,0 +1,1 @@
+python submit.py -p "memoriesofpassportcontrol" -f ".\problems\m\memoriesofpassportcontrol\java\Main.java"

@@ -1,0 +1,1 @@
+python submit.py -p "cold" -f ".\problems\c\cold\java\Main.java"

@@ -1,0 +1,1 @@
+python submit.py -p "cetvrta" -f ".\problems\c\cetvrta\java\Main.java"

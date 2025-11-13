@@ -1,0 +1,1 @@
+python submit.py -p "snakeystring" -f ".\problems\s\snakeystring\java\Main.java"
