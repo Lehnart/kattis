@@ -1,0 +1,1 @@
+python submit.py -p "skener" -f ".\problems\s\skener\java\Main.java"

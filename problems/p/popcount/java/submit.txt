@@ -1,0 +1,1 @@
+python submit.py -p "popcount" -f ".\problems\p\popcount\java\Main.java"

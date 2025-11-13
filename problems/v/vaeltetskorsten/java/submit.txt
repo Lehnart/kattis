@@ -1,0 +1,1 @@
+python submit.py -p "vaeltetskorsten" -f ".\problems\v\vaeltetskorsten\java\Main.java"

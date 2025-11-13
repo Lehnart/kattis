@@ -1,0 +1,1 @@
+python submit.py -p "counting" -f ".\problems\c\counting\java\Main.java"
