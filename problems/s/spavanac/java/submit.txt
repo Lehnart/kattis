@@ -1,0 +1,1 @@
+python submit.py -p "spavanac" -f ".\problems\s\spavanac\java\Main.java"

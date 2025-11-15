@@ -1,0 +1,1 @@
+python submit.py -p "trik" -f ".\problems\t\trik\java\Main.java"
