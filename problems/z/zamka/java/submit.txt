@@ -1,0 +1,1 @@
+python submit.py -p "zamka" -f ".\problems\z\zamka\java\Main.java"

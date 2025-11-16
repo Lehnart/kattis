@@ -1,0 +1,1 @@
+python submit.py -p "pot" -f ".\problems\p\pot\java\Main.java"

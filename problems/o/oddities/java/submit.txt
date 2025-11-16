@@ -1,0 +1,1 @@
+python submit.py -p "oddities" -f ".\problems\o\oddities\java\Main.java"
