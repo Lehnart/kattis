@@ -1,0 +1,1 @@
+python submit.py -p "bela" -f ".\problems\b\bela\java\Main.java"
