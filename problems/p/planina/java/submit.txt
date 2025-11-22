@@ -1,0 +1,1 @@
+python submit.py -p "planina" -f ".\problems\p\planina\java\Main.java"

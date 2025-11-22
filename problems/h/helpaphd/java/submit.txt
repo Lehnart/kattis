@@ -1,0 +1,1 @@
+python submit.py -p "helpaphd" -f ".\problems\h\helpaphd\java\Main.java"

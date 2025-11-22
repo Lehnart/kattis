@@ -1,0 +1,1 @@
+python submit.py -p "bitteeinbit" -f ".\problems\b\bitteeinbit\java\Main.java"
