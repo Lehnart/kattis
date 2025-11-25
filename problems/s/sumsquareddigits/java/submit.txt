@@ -1,0 +1,1 @@
+python submit.py -p "sumsquareddigits" -f ".\problems\s\sumsquareddigits\java\Main.java"
