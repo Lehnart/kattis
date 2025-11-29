@@ -1,0 +1,1 @@
+python submit.py -p "avion" -f ".\problems\a\avion\java\Main.java"

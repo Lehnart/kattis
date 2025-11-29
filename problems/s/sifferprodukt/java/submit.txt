@@ -1,0 +1,1 @@
+python submit.py -p "sifferprodukt" -f ".\problems\s\sifferprodukt\java\Main.java"
