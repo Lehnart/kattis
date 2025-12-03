@@ -1,0 +1,1 @@
+python submit.py -p "stopwatch" -f ".\problems\s\stopwatch\java\Main.java"

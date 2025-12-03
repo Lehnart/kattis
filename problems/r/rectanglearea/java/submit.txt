@@ -1,0 +1,1 @@
+python submit.py -p "rectanglearea" -f ".\problems\r\rectanglearea\java\Main.java"

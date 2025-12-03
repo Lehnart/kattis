@@ -1,0 +1,1 @@
+python submit.py -p "laptopsticker" -f ".\problems\l\laptopsticker\java\Main.java"

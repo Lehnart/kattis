@@ -1,0 +1,1 @@
+python submit.py -p "grading" -f ".\problems\g\grading\java\Main.java"
