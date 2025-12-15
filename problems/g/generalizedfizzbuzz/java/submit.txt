@@ -1,0 +1,1 @@
+python submit.py -p "generalizedfizzbuzz" -f ".\problems\g\generalizedfizzbuzz\java\Main.java"

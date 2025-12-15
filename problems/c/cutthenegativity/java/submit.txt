@@ -1,0 +1,1 @@
+python submit.py -p "cutthenegativity" -f ".\problems\c\cutthenegativity\java\Main.java"

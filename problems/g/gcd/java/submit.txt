@@ -1,0 +1,1 @@
+python submit.py -p "gcd" -f ".\problems\g\gcd\java\Main.java"

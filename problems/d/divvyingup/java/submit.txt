@@ -1,0 +1,1 @@
+python submit.py -p "divvyingup" -f ".\problems\d\divvyingup\java\Main.java"

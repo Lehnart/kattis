@@ -1,0 +1,1 @@
+python submit.py -p "stickykeys" -f ".\problems\s\stickykeys\java\Main.java"

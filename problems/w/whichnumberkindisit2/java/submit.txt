@@ -1,0 +1,1 @@
+python submit.py -p "whichnumberkindisit2" -f ".\problems\w\whichnumberkindisit2\java\Main.java"

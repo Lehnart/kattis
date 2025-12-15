@@ -1,0 +1,1 @@
+python submit.py -p "keysphonewallet" -f ".\problems\k\keysphonewallet\java\Main.java"

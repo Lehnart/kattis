@@ -1,0 +1,1 @@
+python submit.py -p "qwerty" -f ".\problems\q\qwerty\java\Main.java"

@@ -1,0 +1,1 @@
+python submit.py -p "busassignment" -f ".\problems\b\busassignment\java\Main.java"

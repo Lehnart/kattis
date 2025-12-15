@@ -1,0 +1,1 @@
+python submit.py -p "gettingwood" -f ".\problems\g\gettingwood\java\Main.java"

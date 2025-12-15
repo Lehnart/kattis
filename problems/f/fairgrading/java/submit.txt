@@ -1,0 +1,1 @@
+python submit.py -p "fairgrading" -f ".\problems\f\fairgrading\java\Main.java"
