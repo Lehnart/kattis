@@ -1,0 +1,1 @@
+python submit.py -p "fodelsedagsmemorisering" -f ".\problems\f\fodelsedagsmemorisering\java\Main.java"

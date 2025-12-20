@@ -1,0 +1,1 @@
+python submit.py -p "blackthorn" -f ".\problems\b\blackthorn\java\Main.java"

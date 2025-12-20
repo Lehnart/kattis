@@ -1,0 +1,1 @@
+python submit.py -p "upprodun" -f ".\problems\u\upprodun\java\Main.java"

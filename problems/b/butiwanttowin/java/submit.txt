@@ -1,0 +1,1 @@
+python submit.py -p "butiwanttowin" -f ".\problems\b\butiwanttowin\java\Main.java"
