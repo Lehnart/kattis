@@ -1,0 +1,1 @@
+python submit.py -p "mumblerap" -f ".\problems\m\mumblerap\java\Main.java"
