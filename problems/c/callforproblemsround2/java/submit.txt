@@ -1,0 +1,1 @@
+python submit.py -p "callforproblemsround2" -f ".\problems\c\callforproblemsround2\java\Main.java"

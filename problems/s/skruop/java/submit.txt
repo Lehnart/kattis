@@ -1,0 +1,1 @@
+python submit.py -p "skruop" -f ".\problems\s\skruop\java\Main.java"
