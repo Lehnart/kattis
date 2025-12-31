@@ -1,0 +1,1 @@
+python submit.py -p "theplank" -f ".\problems\t\theplank\java\Main.java"

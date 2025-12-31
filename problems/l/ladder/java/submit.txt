@@ -1,0 +1,1 @@
+python submit.py -p "ladder" -f ".\problems\l\ladder\java\Main.java"

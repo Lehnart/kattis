@@ -1,0 +1,1 @@
+python submit.py -p "minesweeper" -f ".\problems\m\minesweeper\java\Main.java"

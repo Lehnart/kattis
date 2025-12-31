@@ -1,0 +1,1 @@
+python submit.py -p "bannord" -f ".\problems\b\bannord\java\Main.java"

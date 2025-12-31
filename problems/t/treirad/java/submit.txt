@@ -1,0 +1,1 @@
+python submit.py -p "treirad" -f ".\problems\t\treirad\java\Main.java"

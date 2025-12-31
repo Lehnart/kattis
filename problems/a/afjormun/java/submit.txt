@@ -1,0 +1,1 @@
+python submit.py -p "afjormun" -f ".\problems\a\afjormun\java\Main.java"

@@ -1,0 +1,1 @@
+python submit.py -p "speedlimit" -f ".\problems\s\speedlimit\java\Main.java"

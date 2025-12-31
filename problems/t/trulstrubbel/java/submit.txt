@@ -1,0 +1,1 @@
+python submit.py -p "trulstrubbel" -f ".\problems\t\trulstrubbel\java\Main.java"

@@ -1,0 +1,1 @@
+python submit.py -p "akureyri" -f ".\problems\a\akureyri\java\Main.java"
