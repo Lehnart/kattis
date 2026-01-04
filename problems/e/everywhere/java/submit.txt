@@ -1,0 +1,1 @@
+python submit.py -p "everywhere" -f ".\problems\e\everywhere\java\Main.java"

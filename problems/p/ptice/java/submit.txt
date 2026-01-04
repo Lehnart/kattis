@@ -1,0 +1,1 @@
+python submit.py -p "ptice" -f ".\problems\p\ptice\java\Main.java"

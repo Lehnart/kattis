@@ -1,0 +1,1 @@
+python submit.py -p "numberreduction" -f ".\problems\n\numberreduction\java\Main.java"

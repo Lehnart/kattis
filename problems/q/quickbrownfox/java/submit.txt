@@ -1,0 +1,1 @@
+python submit.py -p "quickbrownfox" -f ".\problems\q\quickbrownfox\java\Main.java"

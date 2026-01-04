@@ -1,0 +1,1 @@
+python submit.py -p "alphabetspam" -f ".\problems\a\alphabetspam\java\Main.java"
