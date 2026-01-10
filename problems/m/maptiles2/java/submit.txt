@@ -1,0 +1,1 @@
+python submit.py -p "maptiles2" -f ".\problems\m\maptiles2\java\Main.java"

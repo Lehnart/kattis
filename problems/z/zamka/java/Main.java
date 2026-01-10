@@ -1,4 +1,3 @@
-package problems.z.zamka.java;
 import java.util.Scanner;
 
 
