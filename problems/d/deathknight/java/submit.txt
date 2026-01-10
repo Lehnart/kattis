@@ -1,0 +1,1 @@
+python submit.py -p "deathknight" -f ".\problems\d\deathknight\java\Main.java"
