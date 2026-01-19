@@ -1,0 +1,1 @@
+python submit.py -p "heartrate" -f ".\problems\h\heartrate\java\Main.java"

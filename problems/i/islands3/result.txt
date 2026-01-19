@@ -1,0 +1,8 @@
+New island found at 0,0
+Cloud neighbor at 0,1
+Land neighbor at 0,0
+Cloud neighbor at 1,1
+Cloud neighbor at 0,1
+Land neighbor at 1,2
+Cloud neighbor at 1,1
+1

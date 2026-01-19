@@ -1,0 +1,1 @@
+python submit.py -p "pyramids" -f ".\problems\p\pyramids\java\Main.java"

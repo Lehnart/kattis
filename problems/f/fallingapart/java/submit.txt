@@ -1,0 +1,1 @@
+python submit.py -p "fallingapart" -f ".\problems\f\fallingapart\java\Main.java"
