@@ -1,0 +1,1 @@
+python submit.py -p "transitwoes" -f ".\problems\t\transitwoes\java\Main.java"

@@ -1,0 +1,1 @@
+python submit.py -p "goatrope" -f ".\problems\g\goatrope\java\Main.java"

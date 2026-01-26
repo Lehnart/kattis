@@ -1,0 +1,1 @@
+python submit.py -p "relocation" -f ".\problems\r\relocation\java\Main.java"

@@ -1,0 +1,1 @@
+python submit.py -p "judgingmoose" -f ".\problems\j\judgingmoose\java\Main.java"

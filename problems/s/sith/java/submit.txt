@@ -1,0 +1,1 @@
+python submit.py -p "sith" -f ".\problems\s\sith\java\Main.java"
