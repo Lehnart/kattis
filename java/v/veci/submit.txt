@@ -1,0 +1,1 @@
+python submit.py -p "veci" -f ".\java\v\veci\Main.java"

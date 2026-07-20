@@ -1,0 +1,1 @@
+python submit.py -p "bitteeinbit" -f ".\java\b\bitteeinbit\Main.java"

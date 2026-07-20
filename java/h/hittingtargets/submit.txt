@@ -1,0 +1,1 @@
+python submit.py -p "hittingtargets" -f ".\java\h\hittingtargets\Main.java"

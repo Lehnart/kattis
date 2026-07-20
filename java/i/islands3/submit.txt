@@ -1,0 +1,1 @@
+python submit.py -p "islands3" -f ".\java\i\islands3\Main.java"

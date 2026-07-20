@@ -1,1 +1,0 @@
-python submit.py -p "grassseed" -f ".\problems\g\grassseed\java\Main.java"

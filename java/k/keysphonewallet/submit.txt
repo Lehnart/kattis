@@ -1,0 +1,1 @@
+python submit.py -p "keysphonewallet" -f ".\java\k\keysphonewallet\Main.java"

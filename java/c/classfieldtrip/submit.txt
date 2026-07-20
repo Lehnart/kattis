@@ -1,0 +1,1 @@
+python submit.py -p "classfieldtrip" -f ".\java\c\classfieldtrip\Main.java"

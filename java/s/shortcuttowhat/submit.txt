@@ -1,0 +1,1 @@
+python submit.py -p "shortcuttowhat" -f ".\java\s\shortcuttowhat\Main.java"

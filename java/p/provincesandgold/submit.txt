@@ -1,0 +1,1 @@
+python submit.py -p "provincesandgold" -f ".\java\p\provincesandgold\Main.java"

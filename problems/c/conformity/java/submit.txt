@@ -1,1 +1,0 @@
-python submit.py -p "conformity" -f ".\problems\c\conformity\java\Main.java"

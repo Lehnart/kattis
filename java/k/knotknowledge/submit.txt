@@ -1,0 +1,1 @@
+python submit.py -p "knotknowledge" -f ".\java\k\knotknowledge\Main.java"

@@ -1,0 +1,1 @@
+python submit.py -p "sevenwonders" -f ".\java\s\sevenwonders\Main.java"

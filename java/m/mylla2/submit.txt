@@ -1,0 +1,1 @@
+python submit.py -p "mylla2" -f ".\java\m\mylla2\Main.java"

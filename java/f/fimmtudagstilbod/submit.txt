@@ -1,0 +1,1 @@
+python submit.py -p "fimmtudagstilbod" -f ".\java\f\fimmtudagstilbod\Main.java"

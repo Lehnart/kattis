@@ -1,0 +1,1 @@
+python submit.py -p "andmal" -f ".\java\a\andmal\Main.java"

@@ -1,0 +1,1 @@
+python submit.py -p "skammstofun" -f ".\java\s\skammstofun\Main.java"

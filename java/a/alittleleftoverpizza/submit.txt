@@ -1,0 +1,1 @@
+python submit.py -p "alittleleftoverpizza" -f ".\java\a\alittleleftoverpizza\Main.java"

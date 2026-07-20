@@ -1,0 +1,1 @@
+python submit.py -p "magictrick" -f ".\java\m\magictrick\Main.java"

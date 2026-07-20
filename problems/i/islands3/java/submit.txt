@@ -1,1 +1,0 @@
-python submit.py -p "isyavowel" -f ".\problems\i\isyavowel\java\Main.java"

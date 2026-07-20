@@ -1,0 +1,1 @@
+python submit.py -p "r2" -f ".\java\r\r2\Main.java"

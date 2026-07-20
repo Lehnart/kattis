@@ -1,0 +1,1 @@
+python submit.py -p "tallenough" -f ".\java\t\tallenough\Main.java"

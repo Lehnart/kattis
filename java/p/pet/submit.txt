@@ -1,0 +1,1 @@
+python submit.py -p "pet" -f ".\java\p\pet\Main.java"

@@ -1,0 +1,1 @@
+python submit.py -p "biladlyklabord" -f ".\java\b\biladlyklabord\Main.java"

@@ -1,0 +1,1 @@
+python submit.py -p "atmmaintenance" -f ".\java\a\atmmaintenance\Main.java"

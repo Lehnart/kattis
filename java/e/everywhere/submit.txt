@@ -1,0 +1,1 @@
+python submit.py -p "everywhere" -f ".\java\e\everywhere\Main.java"

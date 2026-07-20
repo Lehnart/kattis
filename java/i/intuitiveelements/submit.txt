@@ -1,0 +1,1 @@
+python submit.py -p "intuitiveelements" -f ".\java\i\intuitiveelements\Main.java"

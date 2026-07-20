@@ -1,0 +1,1 @@
+python submit.py -p "13floors" -f ".\java\0\13floors\Main.java"

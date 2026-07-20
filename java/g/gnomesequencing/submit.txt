@@ -1,0 +1,1 @@
+python submit.py -p "gnomesequencing" -f ".\java\g\gnomesequencing\Main.java"

@@ -1,0 +1,1 @@
+python submit.py -p "cattoys" -f ".\java\c\cattoys\Main.java"

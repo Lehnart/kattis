@@ -1,1 +1,0 @@
-python submit.py -p "pokerhand" -f ".\problems\p\pokerhand\java\Main.java"

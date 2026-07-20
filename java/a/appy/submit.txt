@@ -1,0 +1,1 @@
+python submit.py -p "appy" -f ".\java\a\appy\Main.java"

@@ -1,0 +1,1 @@
+python submit.py -p "heimavinna" -f ".\java\h\heimavinna\Main.java"

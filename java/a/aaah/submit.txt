@@ -1,0 +1,1 @@
+python submit.py -p "aaah" -f ".\java\a\aaah\Main.java"

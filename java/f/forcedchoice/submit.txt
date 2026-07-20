@@ -1,0 +1,1 @@
+python submit.py -p "forcedchoice" -f ".\java\f\forcedchoice\Main.java"

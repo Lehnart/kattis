@@ -1,0 +1,1 @@
+python submit.py -p "classphoto" -f ".\java\c\classphoto\Main.java"

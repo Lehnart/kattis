@@ -1,1 +1,0 @@
-python submit.py -p "licensetolaunch" -f ".\problems\l\licensetolaunch\java\Main.java"

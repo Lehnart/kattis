@@ -1,0 +1,1 @@
+python submit.py -p "karte" -f ".\java\k\karte\Main.java"

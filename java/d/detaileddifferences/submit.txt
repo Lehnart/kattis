@@ -1,0 +1,1 @@
+python submit.py -p "detaileddifferences" -f ".\java\d\detaileddifferences\Main.java"

@@ -1,0 +1,1 @@
+python submit.py -p "electricaloutlets" -f ".\java\e\electricaloutlets\Main.java"

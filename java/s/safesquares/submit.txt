@@ -1,0 +1,1 @@
+python submit.py -p "safesquares" -f ".\java\s\safesquares\Main.java"

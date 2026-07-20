@@ -1,0 +1,1 @@
+python submit.py -p "secondopinion" -f ".\java\s\secondopinion\Main.java"

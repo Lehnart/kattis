@@ -1,0 +1,1 @@
+python submit.py -p "cudoviste" -f ".\java\c\cudoviste\Main.java"

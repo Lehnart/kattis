@@ -1,0 +1,1 @@
+python submit.py -p "easiest" -f ".\java\e\easiest\Main.java"

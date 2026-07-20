@@ -1,0 +1,1 @@
+python submit.py -p "tarifa" -f ".\java\t\tarifa\Main.java"

@@ -1,0 +1,1 @@
+python submit.py -p "bergur" -f ".\java\b\bergur\Main.java"

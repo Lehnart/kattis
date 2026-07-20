@@ -1,0 +1,1 @@
+python submit.py -p "lastfactorialdigit" -f ".\java\l\lastfactorialdigit\Main.java"

@@ -1,0 +1,1 @@
+python submit.py -p "trik" -f ".\java\t\trik\Main.java"

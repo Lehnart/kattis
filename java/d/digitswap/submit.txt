@@ -1,0 +1,1 @@
+python submit.py -p "digitswap" -f ".\java\d\digitswap\Main.java"

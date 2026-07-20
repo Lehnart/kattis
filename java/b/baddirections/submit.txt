@@ -1,0 +1,1 @@
+python submit.py -p "baddirections" -f ".\java\b\baddirections\Main.java"

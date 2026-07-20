@@ -1,0 +1,1 @@
+python submit.py -p "jackolanternjuxtaposition" -f ".\java\j\jackolanternjuxtaposition\Main.java"

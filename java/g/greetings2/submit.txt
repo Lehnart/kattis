@@ -1,0 +1,1 @@
+python submit.py -p "greetings2" -f ".\java\g\greetings2\Main.java"

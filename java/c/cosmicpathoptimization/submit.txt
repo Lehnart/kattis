@@ -1,0 +1,1 @@
+python submit.py -p "cosmicpathoptimization" -f ".\java\c\cosmicpathoptimization\Main.java"

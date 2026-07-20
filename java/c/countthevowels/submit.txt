@@ -1,0 +1,1 @@
+python submit.py -p "countthevowels" -f ".\java\c\countthevowels\Main.java"

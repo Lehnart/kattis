@@ -1,0 +1,1 @@
+python submit.py -p "flytibaka" -f ".\java\f\flytibaka\Main.java"

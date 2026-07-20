@@ -1,0 +1,1 @@
+python submit.py -p "sith" -f ".\java\s\sith\Main.java"

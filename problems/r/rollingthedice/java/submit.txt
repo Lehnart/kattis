@@ -1,1 +1,0 @@
-python submit.py -p "rollingthedice" -f ".\problems\r\rollingthedice\java\Main.java"

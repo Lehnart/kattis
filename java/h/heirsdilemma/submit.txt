@@ -1,0 +1,1 @@
+python submit.py -p "heirsdilemma" -f ".\java\h\heirsdilemma\Main.java"

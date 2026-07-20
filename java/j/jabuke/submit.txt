@@ -1,0 +1,1 @@
+python submit.py -p "jabuke" -f ".\java\j\jabuke\Main.java"

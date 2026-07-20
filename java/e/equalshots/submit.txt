@@ -1,0 +1,1 @@
+python submit.py -p "equalshots" -f ".\java\e\equalshots\Main.java"

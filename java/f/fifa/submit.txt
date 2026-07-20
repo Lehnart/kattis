@@ -1,0 +1,1 @@
+python submit.py -p "fifa" -f ".\java\f\fifa\Main.java"

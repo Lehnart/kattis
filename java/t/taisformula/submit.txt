@@ -1,0 +1,1 @@
+python submit.py -p "taisformula" -f ".\java\t\taisformula\Main.java"

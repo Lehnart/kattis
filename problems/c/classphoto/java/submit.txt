@@ -1,1 +1,0 @@
-python submit.py -p "classphoto" -f ".\problems\c\classphoto\java\Main.java"

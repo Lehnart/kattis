@@ -1,0 +1,1 @@
+python submit.py -p "midjan" -f ".\java\m\midjan\Main.java"

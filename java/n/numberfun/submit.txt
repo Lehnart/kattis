@@ -1,0 +1,1 @@
+python submit.py -p "numberfun" -f ".\java\n\numberfun\Main.java"

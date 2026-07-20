@@ -1,0 +1,1 @@
+python submit.py -p "encryptedcounting" -f ".\java\e\encryptedcounting\Main.java"

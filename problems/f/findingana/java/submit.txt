@@ -1,1 +1,0 @@
-python submit.py -p "findingana" -f ".\problems\f\findingana\java\Main.java"

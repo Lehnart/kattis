@@ -1,0 +1,1 @@
+python submit.py -p "vandalism" -f ".\java\v\vandalism\Main.java"

@@ -1,0 +1,1 @@
+python submit.py -p "harshadnumbers" -f ".\java\h\harshadnumbers\Main.java"

@@ -1,0 +1,1 @@
+python submit.py -p "hipphipp" -f ".\java\h\hipphipp\Main.java"

@@ -1,0 +1,1 @@
+python submit.py -p "smil" -f ".\java\s\smil\Main.java"

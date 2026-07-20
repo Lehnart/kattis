@@ -1,0 +1,1 @@
+python submit.py -p "nostragglers" -f ".\java\n\nostragglers\Main.java"

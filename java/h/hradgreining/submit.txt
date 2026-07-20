@@ -1,0 +1,1 @@
+python submit.py -p "hradgreining" -f ".\java\h\hradgreining\Main.java"

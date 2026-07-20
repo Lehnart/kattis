@@ -1,1 +1,0 @@
-python submit.py -p "addtwonumbers" -f ".\problems\a\addtwonumbers\java\Main.java"

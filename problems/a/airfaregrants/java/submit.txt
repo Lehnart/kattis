@@ -1,1 +1,0 @@
-python submit.py -p "airfaregrants" -f ".\problems\a\airfaregrants\java\Main.java"

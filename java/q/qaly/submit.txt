@@ -1,0 +1,1 @@
+python submit.py -p "qaly" -f ".\java\q\qaly\Main.java"

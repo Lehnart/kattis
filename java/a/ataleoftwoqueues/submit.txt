@@ -1,0 +1,1 @@
+python submit.py -p "ataleoftwoqueues" -f ".\java\a\ataleoftwoqueues\Main.java"

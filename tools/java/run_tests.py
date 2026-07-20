@@ -1,50 +1,36 @@
-import subprocess
-import os 
 import pathlib
+import subprocess
 import sys
 
-args = sys.argv[1:]
-letter = args[0] if len(args) > 0 else None 
 
-os.chdir("problems")
-letters = os.listdir() if letter is None else [letter]
+ROOT = pathlib.Path(__file__).resolve().parents[2]
+requested_letter = sys.argv[1] if len(sys.argv) > 1 else None
+problems_root = ROOT / "problems"
+letters = [requested_letter] if requested_letter else [p.name for p in problems_root.iterdir() if p.is_dir()]
 
-for letter in letters :
-    os.chdir(letter)
-    problems = os.listdir()
-    for problem in problems :
-        print("Running tests for " + problem)
-        os.chdir(problem)
+for letter in sorted(letters):
+    for problem_dir in sorted(p for p in (problems_root / letter).iterdir() if p.is_dir()):
+        source = ROOT / "java" / letter / problem_dir.name / "Main.java"
+        tests = problem_dir / "tests"
+        if not source.exists() or not tests.is_dir():
+            continue
 
-        if not os.path.isdir("res"):
-            os.chdir("..")
-            continue 
+        print(f"Running Java tests for {problem_dir.name}")
+        inputs = sorted(tests.glob("input*"))
+        outputs = sorted(tests.glob("output*"))
+        if len(inputs) != len(outputs):
+            raise RuntimeError(f"Unmatched tests for {problem_dir.name}")
 
-        test_files = os.listdir("res")
-        inputs = [f for f in test_files if f.startswith("input")]
-        outputs = [f for f in test_files if f.startswith("output")]
-        inputs.sort()
-        outputs.sort()
-
-        for index in range(len(inputs)):
-            input_file = pathlib.Path("res", inputs[index])
-            output_file = pathlib.Path("res", outputs[index])
-            result_file = "result.txt"
-
-            with open(input_file, "r") as f, open(result_file, "w") as r :
-                subprocess.run("java java\\Main.java", stdin=f, stdout=r)
-
-            with open(output_file, "r") as o, open(result_file, "r") as r :
-                output_content = o.read()
-                result_content = r.read()
-                try :
-                    assert output_content == result_content
-                except AssertionError :
-                    print("input file", input_file)
-                    print("expected ", output_content)
-                    print("result ", result_content)
-                    exit()
-
-            os.remove("result.txt")
-        os.chdir("..")
-    os.chdir("..")
+        for input_file, output_file in zip(inputs, outputs):
+            result = subprocess.run(
+                ["java", str(source)],
+                input=input_file.read_text(),
+                capture_output=True,
+                text=True,
+                check=True,
+            )
+            expected = output_file.read_text()
+            if result.stdout != expected:
+                raise AssertionError(
+                    f"{input_file}\nexpected: {expected!r}\nresult: {result.stdout!r}"
+                )

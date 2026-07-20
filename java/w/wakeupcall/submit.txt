@@ -1,0 +1,1 @@
+python submit.py -p "wakeupcall" -f ".\java\w\wakeupcall\Main.java"

@@ -1,0 +1,1 @@
+python submit.py -p "takkfyrirmig" -f ".\java\t\takkfyrirmig\Main.java"

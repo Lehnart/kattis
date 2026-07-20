@@ -1,0 +1,1 @@
+python submit.py -p "dicecup" -f ".\java\d\dicecup\Main.java"

@@ -1,0 +1,1 @@
+python submit.py -p "sorttwonumbers" -f ".\java\s\sorttwonumbers\Main.java"
