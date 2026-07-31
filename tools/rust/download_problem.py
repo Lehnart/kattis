@@ -13,7 +13,7 @@ import urllib.request
 import zipfile
 
 
-ROOT = pathlib.Path(__file__).resolve().parents[1]
+ROOT = pathlib.Path(__file__).resolve().parents[2]
 KATTIS = "https://open.kattis.com/problems"
 PROBLEM_ID = re.compile(r"^[a-z0-9]+$")
 

@@ -4,15 +4,14 @@ import sys
 
 
 ROOT = pathlib.Path(__file__).resolve().parents[2]
-requested_letter = sys.argv[1] if len(sys.argv) > 1 else None
+requested_problem = sys.argv[1] if len(sys.argv) > 1 else None
 manifest = ROOT / "rust" / "Cargo.toml"
 
 for source in sorted((ROOT / "rust").glob("*/src/bin/*.rs")):
     letter = source.parents[2].name
-    if requested_letter and letter != requested_letter:
-        continue
-
     problem = source.stem
+    if requested_problem and problem != requested_problem:
+        continue
     problem_dir = ROOT / "problems" / letter / problem
     if not problem_dir.is_dir():
         raise RuntimeError(f"Problem directory not found for {letter}/{problem}")
@@ -35,7 +34,6 @@ for source in sorted((ROOT / "rust").glob("*/src/bin/*.rs")):
         command = [
             "cargo",
             "run",
-            "--quiet",
             "--manifest-path",
             str(manifest),
             "-p",

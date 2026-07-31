@@ -11,5 +11,65 @@ name = "kattis-b"
 version = "0.1.0"
 
 [[package]]
+name = "kattis-c"
+version = "0.1.0"
+
+[[package]]
+name = "kattis-d"
+version = "0.1.0"
+
+[[package]]
+name = "kattis-e"
+version = "0.1.0"
+
+[[package]]
+name = "kattis-f"
+version = "0.1.0"
+
+[[package]]
+name = "kattis-h"
+version = "0.1.0"
+
+[[package]]
+name = "kattis-i"
+version = "0.1.0"
+
+[[package]]
+name = "kattis-j"
+version = "0.1.0"
+
+[[package]]
+name = "kattis-k"
+version = "0.1.0"
+
+[[package]]
+name = "kattis-l"
+version = "0.1.0"
+
+[[package]]
 name = "kattis-m"
+version = "0.1.0"
+
+[[package]]
+name = "kattis-n"
+version = "0.1.0"
+
+[[package]]
+name = "kattis-p"
+version = "0.1.0"
+
+[[package]]
+name = "kattis-r"
+version = "0.1.0"
+
+[[package]]
+name = "kattis-s"
+version = "0.1.0"
+
+[[package]]
+name = "kattis-t"
+version = "0.1.0"
+
+[[package]]
+name = "kattis-z"
 version = "0.1.0"
