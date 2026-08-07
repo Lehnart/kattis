@@ -59,7 +59,10 @@ def main() -> int:
         "-f",
         str(relative_source),
     ]
-    display = f'python submit.py -p "{problem}" -f ".\\{str(relative_source).replace("/", "\\\\")}"'
+    display = (
+        f'python submit.py -p "{problem}" '
+        f'-f ".\\{relative_source}"'
+    )
     print(display)
     if args.dry_run:
         return 0
