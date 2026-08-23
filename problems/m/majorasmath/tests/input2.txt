@@ -1,0 +1,12 @@
+100 10
+7 4 4 6
+ice
+standard
+fire
+ice
+ice
+light
+fire
+fire
+standard
+fire

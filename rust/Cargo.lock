@@ -27,6 +27,10 @@ name = "kattis-f"
 version = "0.1.0"
 
 [[package]]
+name = "kattis-g"
+version = "0.1.0"
+
+[[package]]
 name = "kattis-h"
 version = "0.1.0"
 
@@ -68,6 +72,14 @@ version = "0.1.0"
 
 [[package]]
 name = "kattis-t"
+version = "0.1.0"
+
+[[package]]
+name = "kattis-v"
+version = "0.1.0"
+
+[[package]]
+name = "kattis-w"
 version = "0.1.0"
 
 [[package]]
