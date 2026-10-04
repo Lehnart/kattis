@@ -59,6 +59,10 @@ name = "kattis-n"
 version = "0.1.0"
 
 [[package]]
+name = "kattis-o"
+version = "0.1.0"
+
+[[package]]
 name = "kattis-p"
 version = "0.1.0"
 
