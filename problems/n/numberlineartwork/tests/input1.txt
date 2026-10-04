@@ -1,0 +1,7 @@
+3 5
+red blue green
+0 R
+0 R
+0 gold
+1 black
+2 purple
